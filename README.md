@@ -19,8 +19,7 @@ Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando 
 
 As pessoas estão vendendo essa source para ter lucros para si mesmo, eu estou dando-lo gratuitamente.
 
-
-Links para fazer download:
+#Arquivos Necessários:
 
 
 [DeathCore_3.3.5_Eluna_Dbc](#)
