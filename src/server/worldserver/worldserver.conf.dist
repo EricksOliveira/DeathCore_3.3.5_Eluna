@@ -1,6 +1,6 @@
-################################################
-# Trinity Core World Server configuration file #
-################################################
+#########################################################
+# DeathCore 3.3.5 Eluna World Server configuration file #
+#########################################################
 [worldserver]
 
 ###################################################################################################
@@ -67,10 +67,10 @@ RealmID = 1
 #    DataDir
 #        Description: Data directory setting.
 #        Important:   DataDir needs to be quoted, as the string might contain space characters.
-#        Example:     "@prefix@/share/trinitycore"
+#        Example:     "@prefix@/share/deathcore_3.3.5_eluna"
 #        Default:     "."
 
-DataDir = "."
+DataDir = "data"
 
 #
 #    LogsDir
@@ -79,7 +79,7 @@ DataDir = "."
 #                     Logs directory must exists, or log file creation will be disabled.
 #        Default:     "" - (Log files will be stored in the current path)
 
-LogsDir = ""
+LogsDir = "logs"
 
 #
 #    LoginDatabaseInfo
@@ -92,9 +92,9 @@ LogsDir = ""
 #                                                                 section my.ini)
 #                     ".;/path/to/unix_socket;username;password;database" - (use Unix sockets on
 #                                                                           Unix/Linux)
-#        Default:     "127.0.0.1;3306;trinity;trinity;auth"       - (LoginDatabaseInfo)
-#                     "127.0.0.1;3306;trinity;trinity;world"      - (WorldDatabaseInfo)
-#                     "127.0.0.1;3306;trinity;trinity;characters" - (CharacterDatabaseInfo)
+#        Default:     "127.0.0.1;3306;deathcore_eluna;deathcore_eluna;auth"       - (LoginDatabaseInfo)
+#                     "127.0.0.1;3306;deathcore_eluna;deathcore_eluna;world"      - (WorldDatabaseInfo)
+#                     "127.0.0.1;3306;deathcore_eluna;deathcore_eluna;characters" - (CharacterDatabaseInfo)
 #
 #    Don't change hostname unless you are hosting mysql on a different machine, if you need help
 #    with configuration allowing to connect from diferent machine than the one running server
@@ -102,9 +102,9 @@ LogsDir = ""
 #    Don't open port on firewall to external connections (it belongs to mysql, not to wow server).
 #    The username you choose must have permisions to create/alter/rename tables.
 
-LoginDatabaseInfo     = "127.0.0.1;3306;trinity;trinity;auth"
-WorldDatabaseInfo     = "127.0.0.1;3306;trinity;trinity;world"
-CharacterDatabaseInfo = "127.0.0.1;3306;trinity;trinity;characters"
+LoginDatabaseInfo     = "127.0.0.1;3306;deathcore_eluna;deathcore_eluna;auth"
+WorldDatabaseInfo     = "127.0.0.1;3306;deathcore_eluna;deathcore_eluna;world"
+CharacterDatabaseInfo = "127.0.0.1;3306;deathcore_eluna;deathcore_eluna;characters"
 
 #
 #    LoginDatabase.WorkerThreads
@@ -182,16 +182,16 @@ CMakeCommand  = ""
 #    BuildDirectory
 #        Description: The path to your build directory.
 #                     If the path is left empty, the built-in CMAKE_BINARY_DIR is used.
-#        Example:     "../TrinityCore"
+#        Example:     "../DeathCore 3.3.5 Eluna"
 #        Default:     ""
 
 BuildDirectory  = ""
 
 #
 #    SourceDirectory
-#        Description: The path to your TrinityCore source directory.
+#        Description: The path to your DeathCore 3.3.5 Eluna source directory.
 #                     If the path is left empty, the built-in CMAKE_SOURCE_DIR is used.
-#        Example:     "../TrinityCore"
+#        Example:     "../DeathCore 3.3.5 Eluna"
 #        Default:     ""
 
 SourceDirectory  = ""
@@ -1135,10 +1135,10 @@ BeepAtStart = 1
 #
 #    Motd
 #        Description: Message of the Day, displayed at login. Use '@' for a newline.
-#        Example:     "Welcome to John's Server!@This server is proud to be powered by Trinity Core."
-#        Default:     "Welcome to a Trinity Core server."
+#        Example:     "Welcome to John's Server!@This server is proud to be powered by DeathCore 3.3.5 Eluna."
+#        Default:     "Welcome to a DeathCore 3.3.5 Eluna server."
 
-Motd = "Welcome to a Trinity Core server."
+Motd = "Welcome to a DeathCore 3.3.5 Eluna server."
 
 #
 #    Server.LoginInfo
@@ -1211,7 +1211,7 @@ Account.PasswordChangeSecurity = 0
 #
 #   BirthdayTime
 #        Description: Set to date of project's birth in UNIX time. By default the date when
-#                     TrinityCore was started (Thu Oct 2, 2008)
+#                     DeathCore 3.3.5 Eluna was started (Thu Oct 2, 2008)
 #        Default:     1222964635
 #
 #
@@ -1236,7 +1236,7 @@ BirthdayTime = 1222964635
 #                     4  - (Enable world only)
 #                     0  - (All disabled)
 
-Updates.EnableDatabases = 7
+Updates.EnableDatabases = 0
 
 #
 #    Updates.AutoSetup
@@ -1244,7 +1244,7 @@ Updates.EnableDatabases = 7
 #        Default:     1 - (Enabled)
 #                     0 - (Disabled)
 
-Updates.AutoSetup   = 1
+Updates.AutoSetup   = 0
 
 #
 #    Updates.Redundancy
@@ -1253,7 +1253,7 @@ Updates.AutoSetup   = 1
 #        Default:     1 - (Enabled)
 #                     0 - (Disabled)
 
-Updates.Redundancy  = 1
+Updates.Redundancy  = 0
 
 #
 #    Updates.ArchivedRedundancy
@@ -1270,7 +1270,7 @@ Updates.ArchivedRedundancy = 0
 #        Default:     1 - (Enabled)
 #                     0 - (Disabled)
 
-Updates.AllowRehash = 1
+Updates.AllowRehash = 0
 
 #
 #    Updates.CleanDeadRefMaxCount
@@ -1282,7 +1282,7 @@ Updates.AllowRehash = 1
 #                     0 - (Disabled)
 #                    -1 - (Enabled - unlimited)
 
-Updates.CleanDeadRefMaxCount = 3
+Updates.CleanDeadRefMaxCount = 0
 
 #
 ###################################################################################################
