@@ -1,8 +1,10 @@
 # ![logo](http://image.prntscr.com/image/dffc0e5a99254df3abac824d6c7a3617.png)
 
+# Build Status
 
-## DeathCore 3.3.5a Eluna - New Source - Scripts
-=====================
+| DeathCore 3.3.5a Eluna - New Source - Scripts
+| :------------:
+| [![DeathCore 3.3.5a Eluna - New Source - Scripts](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna.svg?branch=master)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna)
 
 #Informações Gerais do Projeto
 
@@ -19,8 +21,7 @@ Esta é a nova source da DeathCore que estamos atualizando devagar, adicionando 
 
 As pessoas estão vendendo essa source para ter lucros para si mesmo, eu estou dando-lo gratuitamente.
 
-#Arquivos Necessários:
-
+#Arquivos Necessários
 
 [DeathCore_3.3.5_Eluna_Dbc](#)
 
