@@ -21,13 +21,13 @@ As pessoas estão vendendo essa source para ter lucros para si mesmo, eu estou d
 
 #Arquivos Necessários
 
-[DeathCore_3.3.5_Eluna_Dbc](#)
+[DeathCore_3.3.5_Eluna_Dbc](https://mega.nz/#!5pYikT5D!AOYwZq2VzMDukokB0QrrMnJGbi3ZAy8ybMy6C7csx9E)
 
-[DeathCore_3.3.5_Eluna_Maps](#)
+[DeathCore_3.3.5_Eluna_Maps](https://mega.nz/#!FlA2AK7Y!94ILwR7_addT30TdjbSHxhWp8WxZSGcVoZquxzk_H-c)
 
-[DeathCore_3.3.5_Eluna_Mmaps](#)
+[DeathCore_3.3.5_Eluna_Mmaps](https://mega.nz/#!MghVkTaC!FKKaXmP0hRLutDCrbzlkkLTvC9MmB-zHzUtnuHNHw3c)
 
-[DeathCore_3.3.5_Eluna_Vmaps](#)
+[DeathCore_3.3.5_Eluna_Vmaps](https://mega.nz/#!Z9oBGYZT!1hLhIfXv4zA97NO0BP4i9bOvhnki0cfSB1c96-oxnKw)
 
 [Patch - Update - Projeto - World Of Warcraft Tradução em Português [BR] By Erictemponi](https://mega.nz/#!QtoRBQQI!Ze4p0YKkzZUGvHSUWW6zteuteMOZFH3g7_wmDlS1xm4)
 
