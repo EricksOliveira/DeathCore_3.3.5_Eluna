@@ -1,10 +1,8 @@
 # ![logo](http://image.prntscr.com/image/dffc0e5a99254df3abac824d6c7a3617.png)
 
-# Build Status
-
-| DeathCore 3.3.5a Eluna - New Source - Scripts
-| :------------:
-| [![DeathCore 3.3.5a Eluna - New Source - Scripts](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna.svg?branch=master)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna)
+3.3.5_Blizzlike | 3.3.5_Custom | 3.3.5_New_Races
+:------------: | :------------: | :------------:
+| [![3.3.5_Blizzlike](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna.svg?branch=3.3.5_Blizzlike)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna)| [![3.3.5_Custom](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna.svg?branch=3.3.5_Custom)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna)| [![3.3.5_New_Races](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna.svg?branch=3.3.5_New_Races)](https://travis-ci.org/NoffearrDeathProjecT/DeathCore_3.3.5_Eluna)
 
 #Informações Gerais do Projeto
 
