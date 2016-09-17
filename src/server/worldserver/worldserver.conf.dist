@@ -35,6 +35,7 @@
 #    LOGGING SYSTEM SETTINGS
 #    PACKET SPOOF PROTECTION SETTINGS
 #    METRIC SETTINGS
+#    CROSSFACTION BG CONFIG
 #
 ###################################################################################################
 
@@ -3794,6 +3795,18 @@ Metric.ConnectionInfo = "127.0.0.1;8086;worldserver"
 #
 
 Metric.OverallStatusInterval = 1
+
+#
+###################################################################################################
+
+###################################################################################################
+# CROSSFACTION BG CONFIG
+# 
+#
+#    CrossfactionBG.enable = 1 - Mixed battleground enabled.
+#    CrossfactionBG.enable = 0 - Mixed battleground disabled.
+
+CrossfactionBG.enable = 1
 
 #
 ###################################################################################################
